@@ -1,11 +1,8 @@
 #!/bin/bash
-
-# =============================
 # Projet : Terminal Hero
-# Crée par : [Nom A] et [Nom B]
-# =============================
+# Crée par : [Salissou Sofo] et [Boureima Souley Abdoul Wahabou]
 
-# ==== Partie de Personne A ====
+# ==== Partie de Salissou Sofo ====
 echo "Bienvenue dans le jeu : DEVINE LE NOMBRE !"
 echo "J'ai choisi un nombre entre 1 et 20. Peux-tu le trouver ?"
 
@@ -15,7 +12,7 @@ essais=0
 
 # ==== Début de la boucle de jeu ====
 while true; do
-    # ==== Partie de Personne B ====
+    # ==== Partie de Boureima Souley Abdoul Wahabou ====
     read -p "Entre ton nombre : " proposition
 
     # Vérifie que l'entrée est bien un nombre
